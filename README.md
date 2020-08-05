@@ -26,3 +26,4 @@ CURRENTLY INACTIVE!
 5. Preview your announcement with the `e!preview` command
 6. When you've created a satisfying announcement post it to the set announcement channel with the `e!post` command
         
+[![Run on Repl.it](https://repl.it/badge/github/coffincw/embedded-announcements)](https://repl.it/github/coffincw/embedded-announcements)
